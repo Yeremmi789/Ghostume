@@ -87,7 +87,7 @@ export class DetallesComponent implements OnInit {
     },
     {
       id: 3,
-      titulo: 'Disfraz de monja pícara',
+      titulo: 'Santa Claus',
       // descripcion: "Dead by Daylight es un videojuego de horror de supervivencia asimétrico en línea en el que cuatro jugadores deben trabajar juntos para escapar de un asesino controlado por un quinto jugador.",
       // precio: 1500,
       imagen: 'assets/img/disfras3.jpg',

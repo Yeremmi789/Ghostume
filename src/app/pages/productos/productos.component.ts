@@ -33,7 +33,7 @@ export class ProductosComponent {
     },
     {
       id:3,
-      titulo: 'Disfraz de monja pícara',
+      titulo: 'Santa Claus',
       imagen: 'assets/img/disfras3.jpg',
       categoria: 'Mujer',
       tipo: 'Sexys',

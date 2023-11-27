@@ -228,8 +228,11 @@ body{
     #modelo1{
         position: relative;
         top: 10%;
-        width: 200px;
-        left: 5%;
+        /* width: 200px; */
+        width: 280px;
+        /* left: 5%; */
+        left: 40%;
+        /* right: 80%; */
     }
     #modelo2{
         width: 100%;
